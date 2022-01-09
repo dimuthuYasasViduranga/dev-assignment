@@ -53,15 +53,15 @@ const AddBake = () => {
           <option value="Regular Glazed">Regular Glazed</option>
           <option value="Regular Powdered Sugar">Regular Powdered Sugar</option>
           <option value="Regular Chocolate with Sprinkles">Regular Chocolate with Sprinkles</option>
-          <option value="Regular Glazed">Regular Chocolate</option>
-          <option value="Regular Glazed">Regular Maple</option>
-          <option value="Regular Glazed">Chocolate None</option>
-          <option value="Regular Glazed">Chocolate Glazed</option>
-          <option value="Regular Glazed">Chocolate Sugar</option>
-          <option value="Regular Glazed">Chocolate Powdered Sugar</option>
-          <option value="Regular Glazed">Blueberry Maple</option>
-          <option value="Regular Glazed">Devil's Food None</option>
-          <option value="Regular Glazed">Devil's Food Glazed</option>
+          <option value="Regular Chocolate">Regular Chocolate</option>
+          <option value="Regular Maple">Regular Maple</option>
+          <option value="Chocolate None">Chocolate None</option>
+          <option value="Chocolate Glazed">Chocolate Glazed</option>
+          <option value="Chocolate Sugar">Chocolate Sugar</option>
+          <option value="Chocolate Powdered Sugar">Chocolate Powdered Sugar</option>
+          <option value="Blueberry Maple">Blueberry Maple</option>
+          <option value="Devil's Food None">Devil's Food None</option>
+          <option value="Devil's Food Glazed">Devil's Food Glazed</option>
         </select>
         <button>Add Bake</button>
       </form>
