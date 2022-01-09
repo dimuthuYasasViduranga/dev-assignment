@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+
+/* navigation bar */
+.navbar {
+  align-items: center;
+  display: flex;
+  padding: 20px;
+  max-width: 900px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #2685d3;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  padding: 6px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  color: #24d4e0;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* table styles */
+.table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 5px;
+}
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+.table tr:nth-child(even){
+  background-color: #ebe7e7;
+}
+.table tr:hover {
+  background-color: rgb(211, 209, 209);
+}
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #10c4db;
+  color: white;
+}
+
+/* add new bake */
+.addBake {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.addBake label {
+  text-align: left;
+  display: block;
+}
+.addBake h2 {
+  font-size: 20px;
+  color: #10c4db;
+  margin-bottom: 30px;
+}
+.addBake input, .addBake textarea, .addBake select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.addBake button {
+  background: #0ac6d3;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* location */
+.location h2 {
+  font-size: 20px;
+  color: #10c4db;
+  margin-bottom: 10px;
+}
+.location div {
+  margin: 20px 0;
+}
+
+/* path */
+.path h2 {
+  font-size: 20px;
+  color: #10c4db;
+  margin-bottom: 10px;
+}
+.path button {
+  background: #0ac6d3;
+  color: rgb(247, 247, 247);
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 5px;
+}
