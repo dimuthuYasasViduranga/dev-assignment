@@ -287,60 +287,6 @@
       "type": "filled",
       "name": "Filled",
       "topping": "Regular Maple"
-    },
-    {
-      "id": "8",
-      "type": "aa",
-      "name": "sxx",
-      "topping": "Regular Glazed"
-    },
-    {
-      "id": "009",
-      "type": "k",
-      "name": "k",
-      "topping": "Regular Glazed"
-    },
-    {
-      "id": "008",
-      "type": "l",
-      "name": "sss",
-      "topping": "Regular Glazed"
-    },
-    {
-      "id": "9",
-      "type": "cc",
-      "name": "ccc",
-      "topping": "Regular Chocolate with Sprinkles"
-    },
-    {
-      "id": "09",
-      "type": "cake",
-      "name": "cake",
-      "topping": "Regular Glazed"
-    },
-    {
-      "type": "df",
-      "name": "df",
-      "topping": "Regular Glazed",
-      "id": "KqCgmnq"
-    },
-    {
-      "id": "10",
-      "type": "ll",
-      "name": "llll",
-      "topping": "Regular Glazed"
-    },
-    {
-      "id": "99",
-      "type": "jj",
-      "name": "jj",
-      "topping": "Regular Glazed"
-    },
-    {
-      "id": "12",
-      "type": "sss",
-      "name": "swww",
-      "topping": "Regular Glazed"
     }
   ]
 }
