@@ -4,8 +4,8 @@ import FilterGobal from "./FilterGobal";
 
 const BaseTable = ({ Columns, bakes }) => {
 
-    const columns = useMemo(() => Columns, []);
-    const data = useMemo(() => bakes, []);
+    const columns = useMemo(() => Columns, [Columns]);
+    const data = useMemo(() => bakes, [bakes]);
 
     const {
         getTableProps,
